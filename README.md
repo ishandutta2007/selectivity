@@ -235,3 +235,10 @@ In order to validate your code before pushing, please run the following script:
     $ tools/install-git-hooks.sh
 
 This will install a Git pre-push hook that will run JSHint and all unit tests before pushing.
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
